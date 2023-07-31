@@ -7,7 +7,7 @@ The version on the main branch contains the submission.
 
 Tools:
 
-The prototype is implemented in Unreal Engine 5.1.1 and was tested with an Oculus Quest 2 VR Headset.\n
+The prototype is implemented in Unreal Engine 5.1.1 and was tested with an Oculus Quest 2 VR Headset.
 To test it, you have to connect your VR Headset (for the Oulus Quest 2 it was necessary to install Oculus first).
 Also you have to install Unreal Engine (via the Epic Games Launcher) and clone this GIT repository containing the prototype.
 When having the VR Headset connected to the computer, open the game and start the VR Preview Mode.
