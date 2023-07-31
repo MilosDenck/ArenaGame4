@@ -34,6 +34,7 @@ Advanced:
 The waiting time in the beginning can be set in the level blueprint of the game map (the main level is called "Map").
 To open the level blueprint click on the tree symbol in the toolbar at the top and slect "Open Level Blueprint".
 Select the variable TimeBeforeBegin (time before the first wave starts) and set the value in the Details panel under Default Value.
+Dont forget to compile the blueprint (under "Compile" left in the toolbar at the top).
 However, setting other variables might lead to unpredicted behaviour.
 
 ![Screenshot 2023-07-31 022200](https://github.com/MilosDenck/ArenaGame4/assets/132711859/e45a4080-5362-46d9-baac-2c44427a1fb3)
